@@ -1,5 +1,13 @@
 [
   {
+    "role": "Software Engineer Fellow",
+    "organisation": "Headstarter AI",
+    "startDate": "July, 2024",
+    "endDate": "present",
+    "experiences": ["Built 5+ AI projects","Wrapped up with a contribution to an open-source community", "Coached by Amazon, Bloomberg and Capital One engineers"],
+    "imageSrc": "history/headstarterai.jpeg"
+  },
+  {
     "role": "CS Teaching Assistant",
     "organisation": "GSU",
     "startDate": "Aug, 2022",
